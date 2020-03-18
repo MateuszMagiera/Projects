@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX23169769.jpg);
+}
+
+.mainNavbar {
+    border: 2px solid rgb(194, 211, 235);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,58,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#container2 {
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 37%, rgba(185,70,252,1) 55%);
+}
+
+p {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
